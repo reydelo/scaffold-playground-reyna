@@ -12,7 +12,7 @@
 * Run the server and visit http://localhost:3000/people
 * Inspect the `db/schema.rb`
 * Inspect the `config/routes.rb`
-* Run `rake routes`
+* Run `rake routes`bund
 
 **Users can CRUD organizations**
 
